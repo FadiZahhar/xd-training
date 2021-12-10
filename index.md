@@ -145,6 +145,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## Automated
+
+### 1.1 welcome to the course
+<iframe src="https://player.vimeo.com/video/648031499" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2.1 quick adobe xd tutorial
+<iframe src="https://player.vimeo.com/video/648031836" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2.2 adjusting the position size and rotation of objects
+<iframe src="https://player.vimeo.com/video/648032155" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2.3 staggering animation in adobe xd
+<iframe src="https://player.vimeo.com/video/648032437" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2.4 applying masks to auto animations
+<iframe src="https://player.vimeo.com/video/648032683" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2.5 animating a more complex ui
+<iframe src="https://player.vimeo.com/video/648033045" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
 
 
 ### Markdown
