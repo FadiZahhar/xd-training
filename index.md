@@ -4,6 +4,56 @@ You can use the [editor on GitHub](https://github.com/FadiZahhar/xd1-training/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Beginner
+
+### 1.1 welcome to the course
+<iframe src="https://player.vimeo.com/video/648020104" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2.1 creating and managing artboards
+<iframe src="https://player.vimeo.com/video/648020279" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2.2 working with lines and shapes
+<iframe src="https://player.vimeo.com/video/648021023" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2.3 working with text elements
+<iframe src="https://player.vimeo.com/video/648021767" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2.4 importing and editing images
+<iframe src="https://player.vimeo.com/video/648021982" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3.1 combining shapes
+<iframe src="https://player.vimeo.com/video/648022693" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3.2 aligning objects
+<iframe src="https://player.vimeo.com/video/648023030" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3.3 working with assets
+<iframe src="https://player.vimeo.com/video/648023292" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3.4 working with components
+<iframe src="https://player.vimeo.com/video/648023625" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3.5 working with the repeat grid
+<iframe src="https://player.vimeo.com/video/648024242" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3.6 adobe xd responsive design
+<iframe src="https://player.vimeo.com/video/648024693" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3.7 working with adobe xd plugins
+<iframe src="https://player.vimeo.com/video/648025176" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3.8 exporting in adobe xd
+<iframe src="https://player.vimeo.com/video/648025406" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4.1 creating and sharing prototypes in adobe xd
+<iframe src="https://player.vimeo.com/video/648025941" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4.2 working with adobe xd auto animate
+<iframe src="https://player.vimeo.com/video/648026198" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
