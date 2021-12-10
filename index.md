@@ -53,6 +53,36 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## Advanced
+
+### 1.1 welcome to the course
+<iframe src="https://player.vimeo.com/video/648026588" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2.1 auto animating position size and rotation
+<iframe src="https://player.vimeo.com/video/648026914" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2.2 combining masks and auto animate
+<iframe src="https://player.vimeo.com/video/648027380" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2.3 using multiple interactions on one element
+<iframe src="https://player.vimeo.com/video/648028043" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2.4 micro interactions in adobe xd
+<iframe src="https://player.vimeo.com/video/648028500" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3.1 next level 3d transforms
+<iframe src="https://player.vimeo.com/video/648029059" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4.1 advanced layouts with stacks
+<iframe src="https://player.vimeo.com/video/648030242" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5.1 advanced components with states
+<iframe src="https://player.vimeo.com/video/648030555" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6.1 5 top plugins for advanced users
+<iframe src="https://player.vimeo.com/video/648031046" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 
 ### Markdown
 
