@@ -84,6 +84,69 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## Beginner
+
+### 1.1 responsive design in adobe xd
+<iframe src="https://player.vimeo.com/video/648033602" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2.1 responsive design is just two things
+<iframe src="https://player.vimeo.com/video/648033657" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2.2 workflow breakpoints and do we still do mobile first
+<iframe src="https://player.vimeo.com/video/648033960" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3.1 quick overview of what you can do in xd
+<iframe src="https://player.vimeo.com/video/648034308" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3.2 the responsive resize function
+<iframe src="https://player.vimeo.com/video/648034565" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3.3 artboards and responsiveness
+<iframe src="https://player.vimeo.com/video/648034780" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3.4 emulating flexible width columns
+<iframe src="https://player.vimeo.com/video/648034951" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3.5 repeat grid and responsiveness
+<iframe src="https://player.vimeo.com/video/648035203" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3.6 handling text
+<iframe src="https://player.vimeo.com/video/648035509" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3.7 create a max width artboard
+<iframe src="https://player.vimeo.com/video/648035708" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4.1 creating breakpoint artboards
+<iframe src="https://player.vimeo.com/video/648035780" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4.2 1000px breakpoint
+<iframe src="https://player.vimeo.com/video/648035902" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4.3 900px breakpoint
+<iframe src="https://player.vimeo.com/video/648036036" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4.4 700px breakpoint
+<iframe src="https://player.vimeo.com/video/648036185" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4.5 500px breakpoint
+<iframe src="https://player.vimeo.com/video/648036373" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4.6 400px breakpoint
+<iframe src="https://player.vimeo.com/video/648036489" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4.7 smallest breakpoint
+<iframe src="https://player.vimeo.com/video/648036574" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5.1 device specific artboards
+<iframe src="https://player.vimeo.com/video/648036695" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5.2 wrapping up
+<iframe src="https://player.vimeo.com/video/648036862" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
